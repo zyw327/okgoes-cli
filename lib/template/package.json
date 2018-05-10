@@ -4,7 +4,9 @@
     "description": "",
     "main": "./public/index.js",
     "scripts": {
-      "test": "nodemon ./public/index.js"
+      "test": "nodemon ./public/index.js",
+      "start": "node ./public/index.js",
+      "dev": "node ./public/index.js"
     },
     "author": "",
     "license": "ISC",

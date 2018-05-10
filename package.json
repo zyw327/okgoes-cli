@@ -1,6 +1,6 @@
 {
   "name": "okgoes-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "okgoes frameset cli",
   "main": "index.js",
   "scripts": {
