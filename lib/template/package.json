@@ -9,7 +9,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "okgoes": "^1.0.5"
+      "okgoes": "^1.0.0"
     },
     "devDependencies": {
       "nodemon": "^1.17.4"
